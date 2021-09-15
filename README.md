@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajheflin
-- 👀 I’m interested in C++, Python, Linux, and Java
-- 🌱 I’m currently learning AI and NLP with spaCy
+- 👀 I’m interested in Java, Spring Boot, and React.js
+- 🌱 I’m currently learning AI and NLP with spaCy, and React.js
 - 📫 How to reach me:
   E-Mail: me@ajheflin.com
 
