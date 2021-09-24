@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @ajheflin
-- 👀 I’m interested in Java, Spring Boot, and React.js
-- 🌱 I’m currently learning AI and NLP with spaCy, and React.js
-- 📫 How to reach me:
-  E-Mail: me@ajheflin.com
+```js
+const aj = {
+  name: "AJ Heflin",
+  handle: "@ajheflin",
+  location: "Clearwater, FL",
+  interests: ["Java", "Spring Boot", "React.js", "Python", "Node.js"],
+  contact: {
+    email: "me@ajheflin.com",
+    phone: "(727) 278-7346"
+  }
+}
+```
 
 <!---
 ajheflin/ajheflin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
