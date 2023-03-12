@@ -2,7 +2,7 @@
 const aj = {
   name: "AJ Heflin",
   handle: "@ajheflin",
-  location: "Clearwater, FL",
+  location: "Tampa, FL",
   interests: ["Java", "Spring Boot", "React.js", "Python", "Node.js"],
   contact: {
     email: "me@ajheflin.com",
